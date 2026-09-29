@@ -20,10 +20,10 @@ if media >= 7.0:
     print("status: Aprovado!")
 else:
     print("Status: Reprovado!")
+```
 
 
-
-
+```
     PS C:\Users\GUSTAVOBERNARDOCOSTA\github> & "C:/Program Files/Python313/python.exe" c:/Users/GUSTAVOBERNARDOCOSTA/github/app.py
 === Sistema de notas do aluno ===
 Digite a primeira nota:5
